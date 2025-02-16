@@ -1,1 +1,1 @@
-# Movie-Recommendation-Engine-ReactJS
+# Movie-Recommendation-Engine-ML project
